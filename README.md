@@ -1,4 +1,4 @@
-# vue-practice
+# Todo-vue
 
 ## Project setup
 ```
